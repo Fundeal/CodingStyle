@@ -3,7 +3,7 @@ C# 코딩 스타일
 
 > 이 문서는 [.Net 공식 코드 스타일 문서](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md)를 번역 및 보강한 문서입니다.
 
->이 문서에 서술되지 않은 세부 지침은 [마이크로소프트 공식 홈페이지에 기술된 지침](https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines/naming-guidelines)을 따릅니다.  
+>이 문서에 서술되지 않은 세부 지침은 [마이크로소프트 공식 홈페이지에 기술된 지침](https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines)을 따릅니다.  
 
 > C# 표준 코딩 스타일 초심자 혹은 한국어 사용자가 혼동할 수 있는 표현에 대해서는 각주를 포함합니다.
 
