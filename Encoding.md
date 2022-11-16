@@ -22,4 +22,4 @@
 
 해당 과정은 일반 텍스트에서 인코딩을 감지하는 것이 매우 어렵기 떄문에 자동화 도구에 100% 의존해서는 안되며 오류가 있을 수 있습니다.
 
-해당 도구는 MIT 라이센스로 공개된 [EncodeToUTF8](https://github.com/steamb23/EncodeToUTF8)을 사용할 수 있습니다.
+해당 도구는 MIT 라이센스로 공개된 [EncodeToUTF8](https://github.com/steamb23/EncodeToUTF8)을 사용할 수 있습니다. 2022년 11월 16일 기준으로 해당 도구의 배포 설정 및 설명 작성이 안되어 있기 때문에 관련 내용은 팀 내에 문의해주세요.
